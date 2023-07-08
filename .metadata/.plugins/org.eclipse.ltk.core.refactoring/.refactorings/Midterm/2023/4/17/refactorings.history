@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Midterm/src/Rectangle.java&apos; to &apos;Midterm.java&apos;" description="Rename resource &apos;Rectangle.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Rectangle.java" name="Midterm.java" stamp="1682653004684" updateReferences="true"/>
+</session>

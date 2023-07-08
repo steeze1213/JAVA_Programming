@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CHAP8/src/FileInputStream.java&apos; to &apos;FileInputStreamEx.java&apos;" description="Rename resource &apos;FileInputStream.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/FileInputStream.java" name="FileInputStreamEx.java" stamp="1685071811363" updateReferences="true"/>
+</session>

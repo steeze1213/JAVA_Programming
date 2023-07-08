@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CHAP6/src/StringTokenizer.java&apos; to &apos;StringTokenizerEx.java&apos;" description="Rename resource &apos;StringTokenizer.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/StringTokenizer.java" name="StringTokenizerEx.java" stamp="1684460461611" updateReferences="true"/>
+</session>

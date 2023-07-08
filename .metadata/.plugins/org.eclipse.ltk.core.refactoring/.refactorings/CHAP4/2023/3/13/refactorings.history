@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CHAP4/src/Circle.java&apos; to &apos;Circle0.java&apos;" description="Rename resource &apos;Circle.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Circle.java" name="Circle0.java" stamp="1680232568951" updateReferences="true"/>
+</session>

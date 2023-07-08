@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;CHAP7/src/PointerVetcorEx.java&apos; to &apos;PointVetcorEx.java&apos;" description="Rename resource &apos;PointerVetcorEx.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/PointerVetcorEx.java" name="PointVetcorEx.java" stamp="1684464451498" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;CHAP7/src/PointVetcorEx.java&apos; to &apos;PointVectorEx.java&apos;" description="Rename resource &apos;PointVetcorEx.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/PointVetcorEx.java" name="PointVectorEx.java" stamp="1684464493791" updateReferences="true"/>
+</session>

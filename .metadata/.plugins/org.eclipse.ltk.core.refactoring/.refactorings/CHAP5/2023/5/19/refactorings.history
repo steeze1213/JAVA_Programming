@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CHAP5/src/IPTV.java&apos; to &apos;ColorTVIPTV.java&apos;" description="Rename resource &apos;IPTV.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/IPTV.java" name="ColorTVIPTV.java" stamp="1683860836854" updateReferences="true"/>
+</session>
